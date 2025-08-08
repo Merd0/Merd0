@@ -27,8 +27,8 @@
 ### 📈 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merd0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="En Çok Kullanılan Diller" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Merd0&theme=dark&show_icons=true&count_private=true" alt="Genel İstatistikler"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merd0&theme=dark&hide_border=false&layout=compact" alt="En Çok Kullanılan Diller" />
 </p>
 
+---
 [![](https://visitcount.itsvg.in/api?id=Merd0&icon=2&color=6)](https://visitcount.itsvg.in)
