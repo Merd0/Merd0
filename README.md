@@ -33,10 +33,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Merd0&icon=2&color=6)](https://visitcount.itsvg.in)
 
-### 📊 GitHub İstatistiklerim
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merd0&theme=dark&hide_border=false&layout=compact" alt="En Çok Kullanılan Diller" />
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Merd0&theme=github" alt="GitHub Aktivite Grafiği" />
-</p>
