@@ -33,17 +33,16 @@ Benim için önemli olan dil değil, **problemin nasıl çözüldüğüdür.**
   <img src="https://img.shields.io/badge/Algorithms-Here-brightgreen?style=for-the-badge" alt="Algorithms"/>
 </p>
 
----
-
-### 📊 Kod İstatistikleri
+### 📊 Kod İstatistikleri (Serverless & Crash-Proof)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merd0&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats&v=1" alt="En Çok Kullanılan Diller" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Merd0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&v=1" alt="Mert's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commited Langs" />
+  <img src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/3-stats.svg" alt="General Stats" />
+</p>
 
 ### 🌐 İletişim
 
