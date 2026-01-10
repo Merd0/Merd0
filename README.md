@@ -23,7 +23,6 @@ Benim için önemli olan dil değil, **problemin nasıl çözüldüğüdür.**
 **Gömülü Sistemler & Donanım:**
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
   <img src="https://img.shields.io/badge/Assembly-A8B9CC?style=for-the-badge&logo=assemblyscript&logoColor=black" alt="Assembly"/>
 </p>
