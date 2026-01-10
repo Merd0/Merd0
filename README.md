@@ -40,9 +40,9 @@ Benim için önemli olan dil değil, **problemin nasıl çözüldüğüdür.**
 ### 📊 Kod İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merd0&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merd0&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats&v=1" alt="En Çok Kullanılan Diller" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Merd0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Mert's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Merd0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&v=1" alt="Mert's GitHub Stats" />
 </p>
 
 ---
