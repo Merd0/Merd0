@@ -1,25 +1,26 @@
 # Merhaba, ben Mert Aydın
 
 **Computer Engineering Student @ Fırat University**  
-C/C++ sistem programlama, algoritmalar, gömülü sistemler ve veritabanı tarafında kendini geliştiren; öğrendiklerini düzenli, test edilebilir ve dokümante edilmiş projelere dönüştürmeye odaklanan bir yazılım geliştiricisiyim.
+Yazılım geliştirmeyi; algoritma pratiği, uygulama geliştirme, veritabanı yönetimi, sistem programlama ve gömülü yazılım gibi farklı katmanları birlikte öğrenerek ilerlettiğim uzun soluklu bir mühendislik yolculuğu olarak görüyorum.
 
-Şu an odağım: **C temelleri**, **modern C++**, **algoritma pratiği**, **STM32/gömülü C** ve **SQL Server**. Kod yazarken yalnızca çalışan çözümü değil, okunabilirliği, sürdürülebilirliği ve doğru mühendislik alışkanlıklarını da önemsiyorum.
+GitHub profilimde Java ile temel programlama ve problem çözme alıştırmalarından C# masaüstü uygulamalarına, SQL Server laboratuvarlarından Python tabanlı veri/AI projelerine, C/C++ sistem temellerinden STM32 ve Assembly çalışmalarına kadar farklı alanlarda tuttuğum öğrenme notları, pratikler ve proje arşivleri yer alıyor. Amacım yalnızca kod yazmak değil; öğrendiğim konuları düzenli, okunabilir, test edilebilir ve tekrar incelenebilir hale getirmek.
 
 <p align="left">
   <a href="https://github.com/Merd0?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-65-181717?style=for-the-badge&logo=github" alt="Repositories" />
   </a>
   <img src="https://img.shields.io/badge/Location-Izmir-0A66C2?style=for-the-badge" alt="Location: Izmir" />
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Algorithms-2F855A?style=for-the-badge" alt="Focus: Systems and Algorithms" />
+  <img src="https://img.shields.io/badge/Focus-Learning%20by%20Building-2F855A?style=for-the-badge" alt="Focus: Learning by Building" />
 </p>
 
-## Current Focus
+## Learning Map
 
-- C ile bellek yönetimi, pointer, veri yapıları, dosya işlemleri ve modüler tasarım.
-- C++17 ile RAII, STL, templates, test, CMake ve production-style proje yapısı.
-- LeetCode problemlerinde C çözümleri, kısa açıklamalar ve tekrar edilebilir çözüm formatı.
-- STM32, Assembly ve düşük seviyeli sistem davranışlarını pratik örneklerle öğrenme.
-- SQL Server ve uygulama geliştirme tarafında veri modelleme, sorgu mantığı ve backend bakış açısı.
+- **Programming fundamentals:** Java ile temel sözdizimi, koşullar, döngüler, diziler, metotlar, küçük oyunlar ve problem çözme pratikleri.
+- **Application development:** C# ve WinForms ile OOP, kullanıcı arayüzü, basit iş akışı yönetimi ve masaüstü uygulama mantığı.
+- **Data and reporting:** SQL Server/T-SQL ile şema tasarımı, sorgulama, join yapıları, stored procedure, trigger ve raporlama pratikleri.
+- **Python and AI tools:** Excel/veri işleme, güvenli dosya akışı, KVKK odaklı veri temizleme ve AI destekli analiz projeleri.
+- **Systems foundation:** C, modern C++, bellek yönetimi, pointer, veri yapıları, CMake, test, CI ve algoritma çözümleri.
+- **Low-level and embedded:** STM32, GPIO, interrupt, timer, Assembly/MIPS32 ve donanıma yakın programlama çalışmaları.
 
 ## Featured Work
 
@@ -28,9 +29,11 @@ C/C++ sistem programlama, algoritmalar, gömülü sistemler ve veritabanı taraf
 | [c-systems-foundation](https://github.com/Merd0/c-systems-foundation) | C temellerinden mini-proje seviyesine uzanan TR/EN öğrenme ve referans yapısı. | C, Makefile, GitHub Actions |
 | [leetcode-c-solutions](https://github.com/Merd0/leetcode-c-solutions) | 144 C çözümü, problem klasörleri, açıklamalar ve düzenli roadmap yaklaşımı. | C, Algorithms, Data Structures |
 | [cpp-learning-lab](https://github.com/Merd0/cpp-learning-lab) | Modern C++17 öğrenme laboratuvarı; CMake, test, CI ve iki dilli öğrenme yolu. | C++17, CMake, CI |
-| [STM32-Survival-Guide](https://github.com/Merd0/STM32-Survival-Guide) | Gömülü sistemler ve STM32 tarafında kişisel öğrenme notları. | C, STM32 |
-| [SQL-Server-Course-Labs](https://github.com/Merd0/SQL-Server-Course-Labs) | SQL Server pratikleri ve veritabanı odaklı laboratuvar çalışmaları. | T-SQL, SQL Server |
-| [car-vision-project](https://github.com/Merd0/car-vision-project) | Görüntü işleme ve Python tabanlı proje pratiği. | Python |
+| [STM32-Survival-Guide](https://github.com/Merd0/STM32-Survival-Guide) | GPIO, EXTI, timer interrupt ve STM32 üzerinde gömülü C pratikleri. | C, STM32 |
+| [assembly-snippets](https://github.com/Merd0/assembly-snippets) | TR/EN MIPS32 Assembly öğrenme yolu; aritmetik, bellek, stack, makro ve kesme konuları. | Assembly, MIPS32 |
+| [SQL-Server-Course-Labs](https://github.com/Merd0/SQL-Server-Course-Labs) | SQL Server temellerinden iş raporlamasına uzanan düzenli T-SQL laboratuvarları. | T-SQL, SQL Server |
+| [ai-shift-analysis-assistant](https://github.com/Merd0/ai-shift-analysis-assistant) | KVKK uyumlu üretim/veri analizi, Excel işleme, güvenli import ve AI destekli raporlama. | Python, Data Analysis, AI |
+| [Trafik-Cezasi-Yonetim-Sistemi](https://github.com/Merd0/Trafik-Cezasi-Yonetim-Sistemi) | C# WinForms ile OOP tabanlı masaüstü uygulama ve temel iş akışı yönetimi. | C#, WinForms, OOP |
 
 ## Tech Stack
 
