@@ -27,7 +27,7 @@ GitHub profilimde Java ile temel programlama ve problem çözme alıştırmalar�
 | Project | What it shows | Stack |
 |---|---|---|
 | [c-systems-foundation](https://github.com/Merd0/c-systems-foundation) | C temellerinden mini-proje seviyesine uzanan TR/EN öğrenme ve referans yapısı. | C, Makefile, GitHub Actions |
-| [leetcode-c-solutions](https://github.com/Merd0/leetcode-c-solutions) | 144 C çözümü, problem klasörleri, açıklamalar ve düzenli roadmap yaklaşımı. | C, Algorithms, Data Structures |
+| [leetcode-c-solutions](https://github.com/Merd0/leetcode-c-solutions) | <!-- leetcode-c-count:start -->165<!-- leetcode-c-count:end --> C çözümü, problem klasörleri, açıklamalar ve düzenli roadmap yaklaşımı. | C, Algorithms, Data Structures |
 | [cpp-learning-lab](https://github.com/Merd0/cpp-learning-lab) | Modern C++17 öğrenme laboratuvarı; CMake, test, CI ve iki dilli öğrenme yolu. | C++17, CMake, CI |
 | [STM32-Survival-Guide](https://github.com/Merd0/STM32-Survival-Guide) | GPIO, EXTI, timer interrupt ve STM32 üzerinde gömülü C pratikleri. | C, STM32 |
 | [assembly-snippets](https://github.com/Merd0/assembly-snippets) | TR/EN MIPS32 Assembly öğrenme yolu; aritmetik, bellek, stack, makro ve kesme konuları. | Assembly, MIPS32 |
