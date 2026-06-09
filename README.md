@@ -60,4 +60,4 @@ katmanlarda geliştirdiğim proje ve öğrenme arşivlerini bir araya getiriyor.
   </a>
 </p>
 
-![Profile views](https://visitcount.itsvg.in/api?id=Merd0&icon=5&color=9)
+![Profile views](https://komarev.com/ghpvc/?username=Merd0&label=Profile%20views&color=0e75b6&style=flat)
