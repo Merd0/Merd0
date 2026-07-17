@@ -21,7 +21,7 @@ katmanlarda geliştirdiğim proje ve öğrenme arşivlerini bir araya getiriyor.
 | Proje | Ne gösteriyor | Teknolojiler |
 |---|---|---|
 | [c-systems-foundation](https://github.com/Merd0/c-systems-foundation) | C temellerinden veri yapılarına ve mini projelere uzanan TR/EN öğrenme ve referans kaynağı. | C, Make, CI |
-| [leetcode-c-solutions](https://github.com/Merd0/leetcode-c-solutions) | <!-- leetcode-c-count:start -->230<!-- leetcode-c-count:end --> C çözümü; açıklamalı problem arşivi, konu sıralaması ve düzenli pratik geçmişi. | C, Algorithms, Data Structures |
+| [leetcode-c-solutions](https://github.com/Merd0/leetcode-c-solutions) | <!-- leetcode-c-count:start -->233<!-- leetcode-c-count:end --> C çözümü; açıklamalı problem arşivi, konu sıralaması ve düzenli pratik geçmişi. | C, Algorithms, Data Structures |
 | [cpp-learning-lab](https://github.com/Merd0/cpp-learning-lab) | Modern C++17, OOP, STL, CMake, test ve iki dilli öğrenme yolu. | C++17, CMake, Testing |
 | [SQL-Server-Course-Labs](https://github.com/Merd0/SQL-Server-Course-Labs) | SQL Server temellerinden sorgulama, veritabanı nesneleri ve raporlamaya uzanan laboratuvarlar. | T-SQL, SQL Server |
 | [ai-shift-analysis-assistant](https://github.com/Merd0/ai-shift-analysis-assistant) | Güvenli Excel içe aktarma, üretim/veri analizi ve AI destekli raporlama akışı. | Python, Data Analysis, AI |
