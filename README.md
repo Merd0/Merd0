@@ -1,63 +1,84 @@
-# Merhaba, ben Mert Aydın
+<div align="center">
 
-**Fırat Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.**
+# Mert Aydın
 
-Yazılım geliştirmeyi yalnızca kod yazmak olarak değil; problemi anlamak,
-doğru veri yapısını seçmek, çalışan çözümü test etmek ve öğrendiklerimi tekrar
-kullanılabilir biçimde belgelemek olarak görüyorum.
+**Bilgisayar Mühendisliği Öğrencisi · Software Developer**
 
-Bu profil; C/C++ ve algoritma çalışmalarından C# uygulamalarına, SQL ve veri
-işlemeden Python araçlarına, STM32 ve Assembly pratiklerine kadar farklı
-katmanlarda geliştirdiğim proje ve öğrenme arşivlerini bir araya getiriyor.
+Sistem programlama, robotik, bilgisayarlı görü ve veri odaklı uygulamalar geliştiriyorum.
 
-## Çalışma Yaklaşımım
+<p>
+  <a href="https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flant%C4%B1%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://robotik-platform.vercel.app/">
+    <img src="https://img.shields.io/badge/Canl%C4%B1%20Proje-Robotik%20Platform-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Robotik Platform canlı demo" />
+  </a>
+</p>
 
-- **Temel mühendislik:** Algoritmalar, veri yapıları, bellek yönetimi, OOP ve veritabanı temelleri.
-- **Uygulamalı öğrenme:** Konuları çalışan örnekler, küçük projeler ve düzenli problem çözümüyle pekiştirme.
-- **Sürdürülebilir çıktı:** Build, test, CI, açıklama ve öğrenme yolu içeren tekrar kullanılabilir repolar hazırlama.
+</div>
 
-## Öne Çıkan Çalışmalar
+## Kısaca
 
-| Proje | Ne gösteriyor | Teknolojiler |
+Fırat Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Bir projeyi yalnızca çalışan kod olarak değil; net bir problem tanımı, doğru mimari, test edilebilirlik, CI ve anlaşılır dokümantasyonla birlikte ele alıyorum.
+
+- **Temel:** C/C++, algoritmalar, veri yapıları, bellek yönetimi ve OOP
+- **Uygulama:** Python, TypeScript, C#, SQL ve API geliştirme
+- **Odak:** Robotik, gömülü sistemler, bilgisayarlı görü ve veri analizi
+
+## Öne Çıkan Projeler
+
+| Proje | Kısa açıklama | Teknolojiler |
 |---|---|---|
-| [c-systems-foundation](https://github.com/Merd0/c-systems-foundation) | C temellerinden veri yapılarına ve mini projelere uzanan TR/EN öğrenme ve referans kaynağı. | C, Make, CI |
-| [leetcode-c-solutions](https://github.com/Merd0/leetcode-c-solutions) | <!-- leetcode-c-count:start -->261<!-- leetcode-c-count:end --> C çözümü; açıklamalı problem arşivi, konu sıralaması ve düzenli pratik geçmişi. | C, Algorithms, Data Structures |
-| [cpp-learning-lab](https://github.com/Merd0/cpp-learning-lab) | Modern C++17, OOP, STL, CMake, test ve iki dilli öğrenme yolu. | C++17, CMake, Testing |
-| [SQL-Server-Course-Labs](https://github.com/Merd0/SQL-Server-Course-Labs) | SQL Server temellerinden sorgulama, veritabanı nesneleri ve raporlamaya uzanan laboratuvarlar. | T-SQL, SQL Server |
-| [ai-shift-analysis-assistant](https://github.com/Merd0/ai-shift-analysis-assistant) | Güvenli Excel içe aktarma, üretim/veri analizi ve AI destekli raporlama akışı. | Python, Data Analysis, AI |
-| [Trafik-Cezasi-Yonetim-Sistemi](https://github.com/Merd0/Trafik-Cezasi-Yonetim-Sistemi) | OOP tabanlı masaüstü uygulama, kullanıcı arayüzü ve temel iş akışı yönetimi. | C#, WinForms, OOP |
+| **[Robotik Öğrenme Platformu](https://github.com/Merd0/robotik-platform)** · [Canlı demo](https://robotik-platform.vercel.app/) | 3 seviyede 94 ders, etkileşimli 3B laboratuvarlar ve 1.056 otomatik test içeren ücretsiz Türkçe robotik platformu. | Next.js, TypeScript, Three.js, Python |
+| **[Car Vision Project](https://github.com/Merd0/car-vision-project)** | Türkiye pazarındaki 105 araç sınıfını tanıyan; model, API ve web arayüzünü tek sistemde birleştiren bilgisayarlı görü projesi. | PyTorch, FastAPI, ResNet50, Docker |
+| **[C Systems Foundation](https://github.com/Merd0/c-systems-foundation)** | C ve sistem programlama temellerini 75 adımlı, iki dilli ve test edilebilir bir öğrenme yolunda toplar. | C11, Make, Testing, CI |
+| **[LeetCode C Solutions](https://github.com/Merd0/leetcode-c-solutions)** | <!-- leetcode-c-count:start -->261<!-- leetcode-c-count:end --> açıklamalı C çözümüyle algoritma ve veri yapıları çalışma arşivi. | C, Algorithms, Data Structures |
+| **[AI Shift Analysis Assistant](https://github.com/Merd0/ai-shift-analysis-assistant)** | Güvenli Excel içe aktarma, üretim verisi analizi ve AI destekli raporlama akışı. | Python, Data Analysis, AI |
+| **[STM32 Survival Guide](https://github.com/Merd0/STM32-Survival-Guide)** | GPIO, kesmeler, zamanlayıcılar ve durum makineleri için uygulamalı STM32 örnekleri. | Embedded C, STM32, HAL |
 
-**Diğer teknik çalışmalar:** [STM32 Survival Guide](https://github.com/Merd0/STM32-Survival-Guide) · [MIPS32 Assembly Snippets](https://github.com/Merd0/assembly-snippets)
+## Teknik Yetkinlikler
 
-## Teknik Alanlar
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-| Alan | Teknolojiler ve konular |
+| Alan | Çalışmalar |
 |---|---|
-| Programlama | C, C++, C#, Python, Java |
-| Algoritmalar | Veri yapıları, problem çözme, zaman ve alan karmaşıklığı |
-| Veri | T-SQL, SQL Server, Excel işleme, raporlama |
-| Araçlar | Git, GitHub Actions, CMake, Make, test ve hata ayıklama |
-| Düşük seviye çalışmalar | Bellek yönetimi, STM32, MIPS32 Assembly |
+| **Sistemler ve temeller** | C/C++, bellek yönetimi, veri yapıları, algoritmalar, MIPS32 Assembly |
+| **AI ve veri** | PyTorch, bilgisayarlı görü, veri analizi, Excel işleme, T-SQL |
+| **Web ve uygulama** | TypeScript, Next.js, FastAPI, REST API, C# / WinForms |
+| **Robotik ve gömülü** | Robot kinematiği, Three.js simülasyonları, STM32, sensörler ve kesmeler |
+| **Mühendislik araçları** | Git, GitHub Actions, Docker, CMake, Make, test ve hata ayıklama |
+
+## Çalışma Prensibim
+
+Projelerimde tekrar üretilebilir kurulum, ölçülebilir kalite, otomatik testler ve kararların dokümante edilmesini önceliklendiriyorum. Öğrendiklerimi yalnızca sonuç olarak değil, başkalarının da takip edebileceği açık kaynak öğrenme yolları ve çalışan ürünler olarak yayımlıyorum.
 
 ## GitHub Aktivitesi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub profile details" />
+  <img width="100%" src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Mert Aydın GitHub profil özeti" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/3-stats.svg" alt="Mert Aydın GitHub istatistikleri" />
+  <img width="49%" src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Depolara göre kullanılan diller" />
 </p>
 
 ## İletişim
 
-<p align="left">
-  <a href="https://linkedin.com/in/mert-aydın-0578a420b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mert%20Ayd%C4%B1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Merd0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Merd0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+Teknik çalışmalarımı ve yeni projelerimi burada paylaşıyorum. İletişim için [LinkedIn üzerinden bağlantı kurabilirsin](https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/).
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Merd0&label=Profil%20g%C3%B6r%C3%BCnt%C3%BClenmesi&color=0e75b6&style=flat" alt="Profil görüntülenmesi" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=Merd0&label=Profile%20views&color=0e75b6&style=flat)
