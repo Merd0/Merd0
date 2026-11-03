@@ -22,6 +22,8 @@ Gömülü Sistemler · Robotik ve Endüstriyel Otomasyon · Bilgisayarlı Görü
 
 [English](README.md) · **Türkçe**
 
+[Öne Çıkan Projeler](#öne-çıkan-mühendislik-projeleri) · [Organizasyon Projeleri](#organizasyon-ve-ekip-projeleri) · [Deneyim](#endüstriyel-deneyim) · [Yetkinlikler](#teknik-yetkinlikler)
+
 </div>
 
 ---
@@ -34,15 +36,72 @@ Projelerde yalnızca bir sistemi kullanmayı değil, **nasıl çalıştığını
 
 ## Öne Çıkan Mühendislik Projeleri
 
-| Proje | Geliştirdiğim / çalıştığım konular | İncele |
-| --- | --- | --- |
-| **[ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab)** | **16 ders, 5 birleştirici proje ve Secure/Non-secure sensor node.** Cortex-M33 üzerinde bare-metal C/Assembly, exception handling, MPU, SVC, PendSV context switching ve TrustZone; QEMU/GDB ve CI ile doğrulama. | [v1.0.0 Sürümü](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [CI](https://github.com/Merd0/ARM-Cortex-M-Lab/actions) |
-| **[Robotik Öğrenme Platformu](https://github.com/Merd0/robotik-platform)** | Etkileşimli 3B laboratuvarlar, kinematik, **94 ders** ve depoda belgelenen **1.056 otomatik test** içeren robotik eğitim platformu. | [Canlı Demo](https://robotik-platform.vercel.app/) · [Kaynak Kod](https://github.com/Merd0/robotik-platform) |
-| **[AI Vardiya Analiz Asistanı](https://github.com/Merd0/ai-shift-analysis-assistant)** | Üretim vardiya kayıtlarını hazırlayan, olası kişisel verileri gözden geçiren, filtreleme ve AI destekli operasyon raporlaması yapan Python masaüstü uygulaması. | [Kod ve Görseller](https://github.com/Merd0/ai-shift-analysis-assistant) |
-| **[C Systems Foundation](https://github.com/Merd0/c-systems-foundation)** | Bellek, pointer, veri yapıları, modüler yazılım, derleme ve test konularını içeren **75 adımlı iki dilli C ve sistem programlama yolu**. | [Öğrenme Yolları](https://github.com/Merd0/c-systems-foundation) |
-| **[Car Vision Project](https://github.com/Merd0/car-vision-project)** | PyTorch ResNet50 modeli, FastAPI ve web arayüzünü birleştiren araç tanıma uygulaması. Eğitilmiş model ağırlıkları ayrıca sağlanır. | [Mimari ve Kurulum](https://github.com/Merd0/car-vision-project) |
+Farklı mühendislik problemlerine odaklanan üç bağımsız projem. Bağlantılardan gerçek kodlara, dokümantasyona, çalışan demolara veya ekran görüntülerine ulaşabilirsin.
 
-**Diğer projeler:** [STM32 Survival Guide](https://github.com/Merd0/STM32-Survival-Guide) · [LeetCode C Solutions](https://github.com/Merd0/leetcode-c-solutions) (açıklamalı C algoritma çözümleri)
+### 01 / [ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab)
+**Gömülü Sistemler · Firmware · Hata Ayıklama**
+
+Cortex-M33 işlemcisinin davranışını bare-metal C/Assembly, exception handling, MPU, SVC/PendSV bağlam değiştirme ve TrustZone üzerinden anlamaya yönelik uygulamalı laboratuvar. **QEMU/GDB deneyleri ve CI kontrolleri** tekrarlanabilir; simülasyon sonuçları fiziksel donanım doğrulaması olarak sunulmuyor.
+
+**16 ders** · **5 birleştirici proje** · **v1.0.0**  
+[Kaynak kod](https://github.com/Merd0/ARM-Cortex-M-Lab) · [Sürüm](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [Otomatik kontroller](https://github.com/Merd0/ARM-Cortex-M-Lab/actions)
+
+### 02 / [Robotik Öğrenme Platformu](https://github.com/Merd0/robotik-platform)
+**Robotik · Etkileşimli 3B · Mühendislik Eğitimi**
+
+Robotik konularını deneyimlenebilir hâle getiren Türkçe bir öğrenme platformu. Yapılandırılmış dersleri, 3B laboratuvarları, kinematik ve hareket planlama konularını, doğrulanan hesaplama modülleriyle birleştiriyor.
+
+**94 ders** · **Etkileşimli 3B laboratuvarlar** · **Belgelenen 1.056 otomatik test**  
+[Canlı platform](https://robotik-platform.vercel.app/) · [Kod ve proje görselleri](https://github.com/Merd0/robotik-platform)
+
+### 03 / [AI Vardiya Analiz Asistanı](https://github.com/Merd0/ai-shift-analysis-assistant)
+**Python · Endüstriyel Veri · Uygulamalı Yapay Zekâ**
+
+Excel tabanlı üretim vardiya kayıtlarını hazırlayan, olası kişisel veri alanlarını işaretleyen, kayıtları filtreleyen ve yapay zekâ destekli operasyon raporları üreten masaüstü prototip. Staj/portfolyo projesidir; **üretim ortamına dağıtılmış bir sistem değildir**.
+
+**Excel işlemleri** · **Veri minimizasyonu** · **Masaüstü raporlama**  
+[Kaynak kod, kurulum ve ekran görüntüleri](https://github.com/Merd0/ai-shift-analysis-assistant)
+
+### Diğer Projeler ve Öğrenme Kaynakları
+
+| Proje | Odak |
+| --- | --- |
+| [C Systems Foundation](https://github.com/Merd0/c-systems-foundation) | Pointer, bellek, modüler program, derleme ve testlerle **75 adımlık iki dilli C/sistem programlama yolu**. |
+| [Car Vision Project](https://github.com/Merd0/car-vision-project) | PyTorch ResNet50, FastAPI, web arayüzü ve Docker ile araç tanıma uygulaması. |
+| [STM32 Survival Guide](https://github.com/Merd0/STM32-Survival-Guide) | GPIO, kesmeler, zamanlayıcılar ve durum makineleri için eğitsel STM32F4/HAL örnekleri. |
+| [C++ Learning Lab](https://github.com/Merd0/cpp-learning-lab) | C++17, OOP, STL, CMake, testler ve iki dilli çalışma notları. |
+| [LeetCode C Solutions](https://github.com/Merd0/leetcode-c-solutions) | Açıklamalı C çözümleri ve algoritma çalışma notları. |
+
+## Organizasyon ve Ekip Projeleri
+
+Ortak projelerimin bir bölümü özel depolar da içeren GitHub organizasyonlarında yer alıyor. Buradaki **beş proje birbirinden bağımsızdır**. Özel projeleri hassas bilgi paylaşmadan, herkesin anlayabileceği şekilde tanıtıyorum.
+
+### [Akıllı Fiko](https://github.com/akilli-fiko) · Akademik Yapay Zekâ Asistanı
+`ÖZEL DEPO` · **Yapay Zekâ / Bilgi Erişimi**
+
+Fırat Üniversitesi öğrencilerinin Türkçe sorularla akademik bilgiye erişmesini hedefleyen bağımsız bir asistan. **Node.js/Python servisleri, bilgi erişimi, kaynak doğrulama, otomatik testler ve geliştirme araçları** üzerinde çalışılıyor. Üniversitenin resmî sistemi veya OBS hizmeti değildir.
+
+### [AYROS MMY — Afet Yardım Rota Planlama](https://github.com/AYROS-MMY/afet-yardim-rota-planlama)
+`AÇIK KAYNAK` · **Algoritmalar / Çizgeler**
+
+Simüle edilen afet senaryolarında hasarlı yolları ve öncelikli hedefleri dikkate alarak **Dijkstra/A*** algoritmalarıyla rota oluşturan Python eğitim prototipi. SVG rota görselleştirmesi içerir; gerçek afet müdahale sistemi değildir.
+
+### [BLOX3D Studio — BLOX3D](https://github.com/BLOX3D-Studio/BLOX3D)
+`AÇIK KAYNAK` · **Unity / Oyun Geliştirme**
+
+**60 oynanabilir seviyeli** Unity URP tabanlı 3B blok yuvarlama bulmacası. Grid hareketi, köprü, ışınlayıcı, geri alma, ipucu, kayıt, iki dilli arayüz ve bölüm tutarlılığı kontrol araçlarını içeriyor.
+
+### [Servikal Spondiloz Sınıflandırma](https://github.com/MMY-servikal-spondiloz-siniflama) · Tıbbi Görüntüleme Araştırması
+`ÖZEL DEPO` · **Derin Öğrenme / Araştırma**
+
+Çok modlu MRI/CT görüntülerinden ameliyat sonrası boyun ağrısı riski sınıflandırmasını araştıran ekip projesi. Model eğitimi, değerlendirme ve API/demo araçlarını kapsar; **klinik tanı cihazı değildir**.
+
+### [MMYFU — Film-Dizi Arşivi](https://github.com/MMYFU/Film-Dizi-Arsivi)
+`AÇIK KAYNAK` · **Yazılım Tasarımı / Veritabanları**
+
+Kullanıcı, film/dizi, puanlama, yorum, favori ve izleme listeleri için gereksinim analizi ve ilişkisel veritabanı modellemesi. Çıktısı dokümantasyon ve veritabanı tasarımıdır; dağıtılmış bir uygulama olduğu iddia edilmiyor.
+
+---
 
 ## Endüstriyel Deneyim
 

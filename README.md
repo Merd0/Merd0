@@ -22,6 +22,8 @@ Embedded Systems · Robotics & Industrial Automation · Computer Vision · Syste
 
 **English** · [Türkçe](README.tr.md)
 
+[Featured Work](#featured-engineering-work) · [Organization Projects](#organization--team-projects) · [Industry](#industry-experience) · [Toolbox](#technical-toolbox)
+
 </div>
 
 ---
@@ -32,17 +34,74 @@ I'm a **Computer Engineering undergraduate at Fırat University, Türkiye**, int
 
 I build projects to understand **how systems work**, not just how to use them. My workflow emphasizes reproducible experiments, debugging, automated tests, and documentation that separates verified results from assumptions.
 
-## Featured Engineering Projects
+## Featured Engineering Work
 
-| Project | What I built / explored | Explore |
-| --- | --- | --- |
-| **[ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab)** | **16 lessons, 5 integration projects, and a Secure/Non-secure sensor node.** Bare-metal C/Assembly, exception handling, MPU, SVC, PendSV context switching, and TrustZone on Cortex-M33, verified with QEMU/GDB and CI. | [v1.0.0 Release](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [CI](https://github.com/Merd0/ARM-Cortex-M-Lab/actions) |
-| **[Robotics Learning Platform](https://github.com/Merd0/robotik-platform)** | Interactive robotics education with 3D labs, kinematics, **94 lessons**, and **1,056 automated tests** documented in the repository. | [Live Demo](https://robotik-platform.vercel.app/) · [Source](https://github.com/Merd0/robotik-platform) |
-| **[AI Shift Analysis Assistant](https://github.com/Merd0/ai-shift-analysis-assistant)** | Python desktop tool for preparing production shift logs, reviewing potential personal data, filtering records, and generating AI-assisted operational reports. | [Source & Screenshots](https://github.com/Merd0/ai-shift-analysis-assistant) |
-| **[C Systems Foundation](https://github.com/Merd0/c-systems-foundation)** | **75-step bilingual C and systems programming path** covering memory, pointers, data structures, modular software, builds, and tests. | [Learning Paths](https://github.com/Merd0/c-systems-foundation) |
-| **[Car Vision Project](https://github.com/Merd0/car-vision-project)** | Vehicle-recognition application connecting a PyTorch ResNet50 model, FastAPI, and a web UI. Trained model weights are supplied separately. | [Architecture & Setup](https://github.com/Merd0/car-vision-project) |
+Three independent projects, each solving a different engineering problem. The links lead to the actual code, documentation, demonstrations, or screenshots.
 
-**More projects:** [STM32 Survival Guide](https://github.com/Merd0/STM32-Survival-Guide) · [LeetCode C Solutions](https://github.com/Merd0/leetcode-c-solutions) (<!-- leetcode-c-count:start -->261<!-- leetcode-c-count:end --> documented C solutions)
+### 01 / [ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab)
+**Embedded Systems · Firmware · Debugging**
+
+A hands-on Cortex-M33 lab for understanding processor behavior through bare-metal C/Assembly, exceptions, MPU, SVC/PendSV context switching, and TrustZone. Built around repeatable **QEMU/GDB experiments and CI checks**, without equating simulation with physical-hardware validation.
+
+**16 lessons** · **5 integration projects** · **v1.0.0**  
+[Repository](https://github.com/Merd0/ARM-Cortex-M-Lab) · [Release](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [Automated checks](https://github.com/Merd0/ARM-Cortex-M-Lab/actions)
+
+### 02 / [Robotics Learning Platform](https://github.com/Merd0/robotik-platform)
+**Robotics · Interactive 3D · Engineering Education**
+
+A Turkish-language learning platform where robotics topics become interactive experiments. It brings together structured lessons, 3D laboratories, kinematics, motion planning, and validation of computational modules.
+
+**94 lessons** · **Interactive 3D labs** · **1,056 automated tests documented**  
+[Live platform](https://robotik-platform.vercel.app/) · [Code & project visuals](https://github.com/Merd0/robotik-platform)
+
+### 03 / [AI Shift Analysis Assistant](https://github.com/Merd0/ai-shift-analysis-assistant)
+**Python · Industrial Data · Applied AI**
+
+A desktop prototype for preparing Excel-based production shift records, highlighting potential personal-data fields, filtering records, and generating AI-assisted operational reports. Developed as an internship/portfolio prototype, **not a production deployment**.
+
+**Excel workflows** · **Data minimization** · **Desktop reporting**  
+[Repository, setup & screenshots](https://github.com/Merd0/ai-shift-analysis-assistant)
+
+### More Projects & Learning Resources
+
+| Project | Focus |
+| --- | --- |
+| [C Systems Foundation](https://github.com/Merd0/c-systems-foundation) | A **75-step bilingual C/systems path** covering pointers, memory, modular programs, builds, and tests. |
+| [Car Vision Project](https://github.com/Merd0/car-vision-project) | Vehicle recognition with PyTorch ResNet50, FastAPI, web UI, and Docker. |
+| [STM32 Survival Guide](https://github.com/Merd0/STM32-Survival-Guide) | Educational STM32F4/HAL examples for GPIO, interrupts, timers, and state machines. |
+| [C++ Learning Lab](https://github.com/Merd0/cpp-learning-lab) | C++17, OOP, STL, CMake, tests, and bilingual notes. |
+| [LeetCode C Solutions](https://github.com/Merd0/leetcode-c-solutions) | <!-- leetcode-c-count:start -->261<!-- leetcode-c-count:end --> documented C solutions and algorithm-practice notes. |
+
+## Organization & Team Projects
+
+Some of my collaborative work lives in GitHub organizations, including private repositories. These are **five separate projects**, not components of one product. Private work is summarized at a safe, public-facing level.
+
+### [Akıllı Fiko](https://github.com/akilli-fiko) · Academic AI Assistant
+`PRIVATE REPOSITORY` · **AI / Information Retrieval**
+
+An independent assistant designed to help Fırat University students find academic information through Turkish-language questions and source-grounded answers. Work includes **Node.js/Python services, retrieval, source verification, automated testing, and development tooling**. It is not an official university or OBS service.
+
+### [AYROS MMY — Disaster-Aid Route Planning](https://github.com/AYROS-MMY/afet-yardim-rota-planlama)
+`PUBLIC SOURCE` · **Algorithms / Graphs**
+
+A Python educational prototype using graph models and **Dijkstra/A*** to explore routes in simulated disaster scenarios, considering damaged roads and priority destinations. It includes SVG-based route visualization; it is not an operational emergency system.
+
+### [BLOX3D Studio — BLOX3D](https://github.com/BLOX3D-Studio/BLOX3D)
+`PUBLIC SOURCE` · **Unity / Game Development**
+
+A Unity URP block-rolling puzzle game with **60 playable levels**, grid-based movement, bridges, teleporters, undo, hints, saves, and bilingual UI. Includes tools for checking level consistency.
+
+### [Cervical Spondylosis Classification](https://github.com/MMY-servikal-spondiloz-siniflama) · Medical Imaging Research
+`PRIVATE REPOSITORY` · **Deep Learning / Research**
+
+A collaborative research project exploring postoperative neck-pain risk classification using multimodal MRI/CT data, with model training, evaluation, and API/demo tooling. A research prototype, **not a clinical diagnostic device**.
+
+### [MMYFU — Film & TV Archive](https://github.com/MMYFU/Film-Dizi-Arsivi)
+`PUBLIC SOURCE` · **Software Design / Databases**
+
+A requirements and relational data-modeling project for a film/series archive, covering users, titles, ratings, reviews, favorites, and watchlists. Documentation and database design are the deliverables; a deployed application is not claimed.
+
+---
 
 ## Industry Experience
 
