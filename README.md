@@ -44,6 +44,18 @@ I build projects to understand **how systems work**, not just how to use them. M
 
 **More projects:** [STM32 Survival Guide](https://github.com/Merd0/STM32-Survival-Guide) · [LeetCode C Solutions](https://github.com/Merd0/leetcode-c-solutions) (<!-- leetcode-c-count:start -->261<!-- leetcode-c-count:end --> documented C solutions)
 
+## Organization & Collaborative Projects
+
+Some of my collaborative engineering work lives in **private organization repositories**. These brief, public summaries highlight the projects without exposing source code, internal documents, or datasets.
+
+| Project / organization | What we build and explore |
+| --- | --- |
+| **[Akıllı Fiko](https://github.com/akilli-fiko)** · Academic AI Assistant | An independent, source-grounded academic assistant for Fırat University students. Our work covers Turkish queries, retrieval and source validation, Node.js/Python services, automated testing, and development workflows. **Not an official university or OBS service.** |
+| **[BLOX3D Studio](https://github.com/BLOX3D-Studio)** · 3D Puzzle Game | A Unity-based 3D puzzle game project centered on interactive mechanics, level design, and iterative gameplay development. |
+| **[Cervical Spondylosis Classification](https://github.com/MMY-servikal-spondiloz-siniflama)** · Medical Imaging Research | Research-oriented computer vision and deep learning work on image-based classification. **A software research project, not a clinical diagnostic tool.** |
+
+**Other organization work:** [AYROS-MMY](https://github.com/AYROS-MMY) · [MMYFU](https://github.com/MMYFU) (project details not publicly documented here).
+
 ## Industry Experience
 
 **ASELSAN — Process Design & Robotic Automation Intern (2026)**  
