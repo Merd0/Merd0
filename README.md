@@ -74,15 +74,15 @@ A **Python desktop prototype** for preparing Excel-based shift logs, identifying
 
 ## Team & Organization Projects
 
-Some collaborations are developed in **private GitHub organizations**. These summaries show the engineering scope without exposing code, internal documents, or datasets.
+My collaborative work spans **public and private GitHub organization repositories**. Public projects link directly to their code; private projects are described without exposing internal files or data.
 
-| Organization / project | Public project overview |
+| Organization / project | Engineering scope |
 | --- | --- |
-| **[Akıllı Fiko](https://github.com/akilli-fiko)** · Academic AI Assistant | Independent, source-grounded assistance for Fırat University students. Work includes Turkish query handling, retrieval/source verification, Node.js/Python services, tests, and development workflows. **Not an official university or OBS service.** |
-| **[BLOX3D Studio](https://github.com/BLOX3D-Studio)** · 3D Puzzle Game | Unity-based puzzle-game development, interactive mechanics, and level design. |
-| **[Cervical Spondylosis Classification](https://github.com/MMY-servikal-spondiloz-siniflama)** · Medical Imaging Research | Computer vision and deep learning research for image-based classification. **A software research project, not a clinical diagnostic tool.** |
-
-**Other organizations:** [AYROS-MMY](https://github.com/AYROS-MMY) · [MMYFU](https://github.com/MMYFU). Their project details have not yet been publicly summarized here.
+| **[Akıllı Fiko](https://github.com/akilli-fiko)** · Academic AI Assistant<br/>*Private repository* | Independent, source-grounded academic assistance for Fırat University students: Turkish query handling, retrieval and source validation, Node.js/Python services, testing, and development workflows. **Not an official university or OBS service.** |
+| **[AYROS MMY](https://github.com/AYROS-MMY/afet-yardim-rota-planlama)** · Disaster-Aid Route Planning<br/>*Public repository* | Python graph modeling and **Dijkstra/A*** routing for simulated disaster areas, including damaged or closed roads, destination needs prioritization, and SVG route visualization. A research/educational prototype, not an emergency deployment system. |
+| **[BLOX3D Studio](https://github.com/BLOX3D-Studio/BLOX3D)** · 3D Puzzle Game<br/>*Public repository* | Unity/URP puzzle game with **60 playable levels**, deterministic grid-based movement, bridges, teleporters, hints, saves, bilingual UI, and level validation tools. |
+| **[Cervical Spondylosis Classification](https://github.com/MMY-servikal-spondiloz-siniflama)** · Medical Imaging Research<br/>*Private repository* | Research on postoperative neck-pain risk classification from multimodal MRI/CT using deep learning, with training/evaluation pipelines and API/demo tooling. **Not a clinical diagnostic device.** |
+| **[MMYFU / Film & TV Archive](https://github.com/MMYFU/Film-Dizi-Arsivi)** · Requirements & Database Design<br/>*Public repository* | Functional requirements and relational data modeling for titles, users, reviews, favorites, watchlists, and media relationships. A design/specification project; implementation is not claimed. |
 
 ## Industry Experience
 
