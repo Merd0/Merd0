@@ -44,6 +44,18 @@ Projelerde yalnızca bir sistemi kullanmayı değil, **nasıl çalıştığını
 
 **Diğer projeler:** [STM32 Survival Guide](https://github.com/Merd0/STM32-Survival-Guide) · [LeetCode C Solutions](https://github.com/Merd0/leetcode-c-solutions) (açıklamalı C algoritma çözümleri)
 
+## Organizasyon ve Ekip Projeleri
+
+Ekip olarak geliştirdiğimiz bazı mühendislik projeleri **özel GitHub organizasyon depolarında** bulunuyor. Kaynak kodları, iç belgeleri veya veri kümelerini açmadan çalışmaların amacını burada kısaca tanıtıyorum.
+
+| Proje / organizasyon | Geliştirdiğimiz ve araştırdığımız konular |
+| --- | --- |
+| **[Akıllı Fiko](https://github.com/akilli-fiko)** · Akademik Yapay Zekâ Asistanı | Fırat Üniversitesi öğrencilerine yönelik bağımsız, kaynak temelli akademik bilgi asistanı. Türkçe sorgu işleme, bilgi erişimi ve kaynak doğrulama, Node.js/Python servisleri, otomatik testler ve geliştirme iş akışları üzerinde çalışıyoruz. **Resmî üniversite ürünü veya OBS entegrasyonu değildir.** |
+| **[BLOX3D Studio](https://github.com/BLOX3D-Studio)** · 3B Bulmaca Oyunu | Unity tabanlı; etkileşimli oyun mekanikleri, bölüm tasarımı ve yinelemeli oyun geliştirme çalışmalarına odaklanan 3B bulmaca projesi. |
+| **[Servikal Spondiloz Sınıflandırma](https://github.com/MMY-servikal-spondiloz-siniflama)** · Tıbbi Görüntüleme Araştırması | Görüntü tabanlı sınıflandırma üzerine bilgisayarlı görü ve derin öğrenme araştırması. **Klinik tanı aracı değil, yazılım araştırmasıdır.** |
+
+**Diğer organizasyon çalışmaları:** [AYROS-MMY](https://github.com/AYROS-MMY) · [MMYFU](https://github.com/MMYFU) (proje ayrıntıları henüz burada kamuya açık olarak belgelenmedi).
+
 ## Endüstriyel Deneyim
 
 **ASELSAN — Süreç Tasarım ve Robotik Otomasyon Stajyeri (2026)**  
