@@ -16,7 +16,7 @@
 <rect x="68" y="195" width="94" height="4" rx="2" fill="url(#accent)"/>
 <text x="68" y="239" fill="#bbd7fd" font-family="Arial,Segoe UI,sans-serif" font-size="24" font-weight="600">Embedded Systems  /  Robotics  /  Applied AI</text>
 <text x="68" y="283" fill="#d3dceb" font-family="Arial,Segoe UI,sans-serif" font-size="21">From ideas to systems that can be built and tested.</text>
-<text x="68" y="337" fill="#8d9fba" font-family="Arial,Segoe UI,sans-serif" font-size="13" letter-spacing="2">FIRAT UNIVERSITY  ·  SOFTWARE & ENGINEERING PROJECTS</text>
+<text x="68" y="337" fill="#8d9fba" font-family="Arial,Segoe UI,sans-serif" font-size="13" letter-spacing="2">FIRAT UNIVERSITY  ·  SOFTWARE &amp; ENGINEERING PROJECTS</text>
 <g fill="none" stroke="#5680ad" stroke-width="1.5" opacity=".55">
 <circle cx="981" cy="183" r="149" stroke-dasharray="7 11"/>
 <circle cx="981" cy="183" r="119" stroke-dasharray="3 8"/>
