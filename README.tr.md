@@ -74,15 +74,15 @@ Excel tabanlı vardiya kayıtlarını hazırlama, olası kişisel veri alanları
 
 ## Organizasyon ve Ekip Projeleri
 
-Bazı ortak çalışmalarımız **özel GitHub organizasyon depolarında** geliştiriliyor. Burada kaynak kodu, iç belgeleri veya veri kümelerini paylaşmadan projelerin mühendislik kapsamını özetliyorum.
+Ortak çalışmalarım **herkese açık ve özel GitHub organizasyon depolarında** yer alıyor. Açık projelerde doğrudan kaynak koduna bağlantı veriyorum; özel projeleri ise iç dosyaları veya verileri paylaşmadan tanıtıyorum.
 
-| Organizasyon / proje | Herkese açık proje özeti |
+| Organizasyon / proje | Mühendislik kapsamı |
 | --- | --- |
-| **[Akıllı Fiko](https://github.com/akilli-fiko)** · Akademik Yapay Zekâ Asistanı | Fırat Üniversitesi öğrencileri için bağımsız, kaynak temelli akademik bilgi asistanı. Türkçe sorgu işleme, bilgi erişimi/kaynak doğrulama, Node.js/Python servisleri, testler ve geliştirme iş akışları üzerinde çalışıyoruz. **Resmî üniversite ürünü veya OBS entegrasyonu değildir.** |
-| **[BLOX3D Studio](https://github.com/BLOX3D-Studio)** · 3B Bulmaca Oyunu | Unity tabanlı bulmaca oyunu geliştirme, etkileşimli mekanikler ve bölüm tasarımı. |
-| **[Servikal Spondiloz Sınıflandırma](https://github.com/MMY-servikal-spondiloz-siniflama)** · Tıbbi Görüntüleme Araştırması | Görüntü tabanlı sınıflandırma için bilgisayarlı görü ve derin öğrenme araştırması. **Klinik tanı aracı değil, yazılım araştırmasıdır.** |
-
-**Diğer organizasyonlar:** [AYROS-MMY](https://github.com/AYROS-MMY) · [MMYFU](https://github.com/MMYFU). Bu çalışmaların ayrıntıları henüz burada kamuya açık olarak özetlenmedi.
+| **[Akıllı Fiko](https://github.com/akilli-fiko)** · Akademik Yapay Zekâ Asistanı<br/>*Özel depo* | Fırat Üniversitesi öğrencileri için bağımsız, kaynak temelli akademik bilgi asistanı: Türkçe sorgu işleme, bilgi erişimi ve kaynak doğrulama, Node.js/Python servisleri, testler ve geliştirme iş akışları. **Resmî üniversite ürünü veya OBS entegrasyonu değildir.** |
+| **[AYROS MMY](https://github.com/AYROS-MMY/afet-yardim-rota-planlama)** · Afet Yardım Rota Planlama<br/>*Herkese açık depo* | Simüle edilmiş afet bölgeleri için Python çizge modelleme, **Dijkstra/A*** ile rota hesabı, hasarlı/kapalı yollar, ihtiyaç önceliklendirme ve SVG rota görselleştirmesi. Gerçek afet müdahale sistemi değil, akademik prototiptir. |
+| **[BLOX3D Studio](https://github.com/BLOX3D-Studio/BLOX3D)** · 3B Bulmaca Oyunu<br/>*Herkese açık depo* | Unity/URP ile **60 oynanabilir seviyeli** oyun; deterministik grid hareketi, köprüler, ışınlayıcılar, ipuçları, kayıt, iki dilli arayüz ve bölüm doğrulama araçları. |
+| **[Servikal Spondiloz Sınıflandırma](https://github.com/MMY-servikal-spondiloz-siniflama)** · Tıbbi Görüntüleme Araştırması<br/>*Özel depo* | Çok modlu MRI/CT verilerinden ameliyat sonrası boyun ağrısı riski sınıflandırması üzerine derin öğrenme araştırması; eğitim/değerlendirme süreçleri ve API/demo araçları. **Klinik tanı cihazı değildir.** |
+| **[MMYFU / Film-Dizi Arşivi](https://github.com/MMYFU/Film-Dizi-Arsivi)** · Gereksinim ve Veritabanı Tasarımı<br/>*Herkese açık depo* | Film/dizi, kullanıcı, yorum, favori, izleme listesi ve ilişkiler için işlevsel gereksinim analizi ve ilişkisel veri modeli. Tamamlanmış uygulama değil, tasarım/şartname çalışmasıdır. |
 
 ## Endüstriyel Deneyim
 
