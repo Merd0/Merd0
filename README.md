@@ -1,22 +1,16 @@
 <div align="center">
 
-# Mert Aydın
-
-**Computer Engineering Undergraduate · Software Developer**
-
-**Embedded Systems • Robotics & Industrial Automation • Applied AI**
-
-*I build software that can be understood, tested, and reproduced — from Cortex-M firmware experiments to interactive robotics and data-driven tools.*
+<img src="assets/profile-hero-en.svg" width="100%" alt="Mert Aydın — Embedded Systems, Robotics and Applied AI portfolio cover" />
 
 <p>
-  <a href="https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://robotik-platform.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Robotics%20Platform-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Robotics platform live demo" /></a>
-  <a href="https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Cortex--M%20Lab-v1.0.0-5B4B8A?style=for-the-badge&logo=github&logoColor=white" alt="ARM Cortex-M Lab release" /></a>
+  <a href="https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Cortex--M%20Lab-v1.0.0-6657A6?style=for-the-badge&logo=github&logoColor=white" alt="ARM Cortex-M Lab v1.0.0" /></a>
 </p>
 
 **English** · [Türkçe](README.tr.md)
 
-[Featured Work](#selected-engineering-work) · [Team Projects](#team--organization-projects) · [Experience](#industry-experience) · [Skills](#technical-toolbox)
+[Featured Engineering Work](#selected-engineering-work) · [Organization Projects](#team--organization-projects) · [Experience](#industry-experience) · [Toolbox](#technical-toolbox)
 
 </div>
 
@@ -34,33 +28,65 @@ I care about the evidence behind a project: **repeatable builds, observable beha
 
 ## Selected Engineering Work
 
-### 01 / [ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab) — Firmware, Debugging & Architecture
+A closer look at three **separate projects**, each with its own purpose, engineering approach, and evidence.
 
-**16 hands-on lessons · 5 integration projects · Secure/Non-secure sensor node**
+### 01 — [ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab)
+**Embedded firmware · Processor architecture · Reproducible testing**
 
-A practical Arm Cortex-M33 lab exploring bare-metal C/Assembly, exception handling, MPU, SVC, PendSV context switching, and TrustZone. Experiments are built and inspected with **QEMU, GDB, CMake, and CI**; simulation results are not presented as physical-hardware validation.
+<p>
+  <img alt="16 hands-on lessons" src="https://img.shields.io/badge/16-Hands--on%20Lessons-0F766E?style=flat-square" />
+  <img alt="Five integration projects" src="https://img.shields.io/badge/5-Integration%20Projects-295EA6?style=flat-square" />
+  <img alt="Version 1.0.0" src="https://img.shields.io/badge/Release-v1.0.0-6657A6?style=flat-square" />
+</p>
 
-[Explore the lab](https://github.com/Merd0/ARM-Cortex-M-Lab) · [v1.0.0 release](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [CI runs](https://github.com/Merd0/ARM-Cortex-M-Lab/actions)
-
-### 02 / [Robotics Learning Platform](https://github.com/Merd0/robotik-platform) — Interactive Robotics Education
-
-**94 lessons · Interactive 3D laboratories · 1,056 automated tests documented in the repository**
-
-An open Turkish-language learning platform spanning robotics fundamentals, kinematics, motion planning, and industrial concepts. It combines browser-based experiments with structured learning paths and validation of computational modules.
-
-[Try the live platform](https://robotik-platform.vercel.app/) · [Source and architecture](https://github.com/Merd0/robotik-platform)
-
-### 03 / [AI Shift Analysis Assistant](https://github.com/Merd0/ai-shift-analysis-assistant) — Industrial Data & Applied AI
-
-A **Python desktop prototype** for preparing Excel-based shift logs, identifying potential personal-data fields, filtering records, and producing AI-assisted operational reports. Developed as an internship/portfolio prototype, not a production-deployed system.
-
-[View source, screenshots and setup](https://github.com/Merd0/ai-shift-analysis-assistant)
+A practical **Arm Cortex-M33 laboratory** built around bare-metal C and Assembly, exceptions, MPU, SVC, PendSV context switching, and TrustZone. The experiments are compiled, debugged, and checked using **QEMU, GDB, CMake, and CI**. Simulation results are documented separately from physical hardware validation.
 
 <p align="center">
-  <a href="https://robotik-platform.vercel.app/"><img width="49%" src="https://raw.githubusercontent.com/Merd0/robotik-platform/main/docs/assets/readme/01-anasayfa.jpg" alt="Robotics Learning Platform home screen with interactive 3D lab" /></a>
-  <a href="https://github.com/Merd0/ai-shift-analysis-assistant"><img width="49%" src="https://raw.githubusercontent.com/Merd0/ai-shift-analysis-assistant/main/docs/screenshots/03-ai-analysis.png" alt="AI Shift Analysis Assistant desktop analysis screen" /></a>
+  <a href="https://github.com/Merd0/ARM-Cortex-M-Lab"><img width="100%" src="assets/cortex-workflow.svg" alt="Illustrated ARM Cortex-M Lab workflow: C and Assembly, QEMU emulation, GDB inspection, and CI checks" /></a>
+  <sub>Illustrated engineering workflow — not a hardware photograph.</sub>
 </p>
-<p align="center"><sub>Real project previews — interactive robotics learning (left) and an AI-assisted shift analysis desktop workflow (right).</sub></p>
+
+[Explore the lab](https://github.com/Merd0/ARM-Cortex-M-Lab) · [Read the release notes](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [Check CI](https://github.com/Merd0/ARM-Cortex-M-Lab/actions)
+
+---
+
+### 02 — [Robotics Learning Platform](https://github.com/Merd0/robotik-platform)
+**Interactive robotics education · Browser-based 3D labs**
+
+<p>
+  <img alt="94 lessons" src="https://img.shields.io/badge/94-Lessons-0F766E?style=flat-square" />
+  <img alt="3D robotics labs" src="https://img.shields.io/badge/Interactive-3D%20Labs-295EA6?style=flat-square" />
+  <img alt="1056 automated tests documented" src="https://img.shields.io/badge/1056-Documented%20Automated%20Tests-6657A6?style=flat-square" />
+</p>
+
+An open Turkish-language learning platform connecting robotics theory with experimentation. Its structured lessons cover robot fundamentals, kinematics, motion planning, and industrial applications, supported by interactive 3D environments and validated computational modules.
+
+<p align="center">
+  <a href="https://robotik-platform.vercel.app/"><img width="92%" src="https://raw.githubusercontent.com/Merd0/robotik-platform/main/docs/assets/readme/01-anasayfa.jpg" alt="Actual Robotics Learning Platform home page" /></a><br/>
+  <sub>Actual project screen: Robotics Learning Platform. This image belongs only to the robotics project.</sub>
+</p>
+
+[Launch the live platform](https://robotik-platform.vercel.app/) · [Browse code, architecture and more screenshots](https://github.com/Merd0/robotik-platform)
+
+---
+
+### 03 — [AI Shift Analysis Assistant](https://github.com/Merd0/ai-shift-analysis-assistant)
+**Industrial data workflows · Python desktop prototype**
+
+<p>
+  <img alt="Python desktop" src="https://img.shields.io/badge/Python-Desktop%20App-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Excel workflows" src="https://img.shields.io/badge/Data-Excel%20Workflows-217346?style=flat-square" />
+  <img alt="Portfolio prototype" src="https://img.shields.io/badge/Stage-Prototype-6657A6?style=flat-square" />
+</p>
+
+A Python desktop prototype for preparing Excel-based shift logs, identifying potential personal-data fields, filtering records, and generating **AI-assisted operational reports**. Developed as an internship/portfolio prototype; it is not a production-deployed system.
+
+<p align="center">
+  <a href="https://github.com/Merd0/ai-shift-analysis-assistant"><img width="92%" src="https://raw.githubusercontent.com/Merd0/ai-shift-analysis-assistant/main/docs/screenshots/03-ai-analysis.png" alt="Actual AI Shift Analysis Assistant desktop analysis screen" /></a><br/>
+  <sub>Actual project screen: AI Shift Analysis Assistant. A separate desktop application from the robotics platform above.</sub>
+</p>
+
+[Explore the source, setup and other screens](https://github.com/Merd0/ai-shift-analysis-assistant)
 
 ### More Projects & Learning Resources
 
@@ -74,7 +100,9 @@ A **Python desktop prototype** for preparing Excel-based shift logs, identifying
 
 ## Team & Organization Projects
 
-My collaborative work spans **public and private GitHub organization repositories**. Public projects link directly to their code; private projects are described without exposing internal files or data.
+My collaborative work spans **five distinct GitHub organizations**. Each entry below is a separate project. Public repositories link to code; private work is presented through non-sensitive, project-level summaries.
+
+<p align="center"><img width="100%" src="assets/organization-map-en.svg" alt="Visual overview of five distinct team projects: Akıllı Fiko, AYROS MMY, BLOX3D Studio, medical imaging research and MMYFU" /></p>
 
 | Organization / project | Engineering scope |
 | --- | --- |
