@@ -4,65 +4,92 @@
 
 **Bilgisayar Mühendisliği Öğrencisi · Yazılım Geliştirici**
 
-Gömülü Sistemler · Robotik ve Endüstriyel Otomasyon · Bilgisayarlı Görü · Sistem Programlama
+**Gömülü Sistemler • Robotik ve Endüstriyel Otomasyon • Uygulamalı Yapay Zekâ**
 
-*ARM Cortex-M firmware çalışmalarından etkileşimli robotik uygulamalarına, mühendislik kavramlarını çalışan ve test edilebilir yazılımlara dönüştürüyorum.*
+*Cortex-M firmware deneylerinden etkileşimli robotiğe ve veri odaklı araçlara kadar, anlaşılabilir, test edilebilir ve tekrar üretilebilir yazılımlar geliştiriyorum.*
 
 <p>
-  <a href="https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flant%C4%B1%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn üzerinden iletişim" />
-  </a>
-  <a href="https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/ARM%20Cortex--M%20Lab-v1.0.0-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="ARM Cortex-M Lab v1.0.0" />
-  </a>
-  <a href="https://robotik-platform.vercel.app/">
-    <img src="https://img.shields.io/badge/Canl%C4%B1%20Proje-Robotik%20Platform-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı Robotik Öğrenme Platformu" />
-  </a>
+  <a href="https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/"><img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flant%C4%B1%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://robotik-platform.vercel.app/"><img src="https://img.shields.io/badge/Canl%C4%B1%20Demo-Robotik%20Platform-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Robotik platform canlı demosu" /></a>
+  <a href="https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Cortex--M%20Lab-v1.0.0-5B4B8A?style=for-the-badge&logo=github&logoColor=white" alt="ARM Cortex-M Lab sürümü" /></a>
 </p>
 
 [English](README.md) · **Türkçe**
+
+[Projeler](#öne-çıkan-mühendislik-çalışmalarım) · [Ekip Çalışmaları](#organizasyon-ve-ekip-projeleri) · [Deneyim](#endüstriyel-deneyim) · [Yetkinlikler](#teknik-yetkinlikler)
 
 </div>
 
 ---
 
-## Hakkımda
+## Mühendislik Odağım
 
-**Fırat Üniversitesi Bilgisayar Mühendisliği** öğrencisiyim. Düşük seviyeli yazılım, robotik ve uygulamalı yapay zekânın kesişimindeki alanlarla ilgileniyorum.
+| **Gömülü ve Düşük Seviyeli** | **Robotik ve Otomasyon** | **Uygulamalı AI ve Yazılım** |
+| :--- | :--- | :--- |
+| Arm Cortex-M, C/C++, Assembly, hata ayıklama ve firmware davranışı | Kinematik, endüstriyel robot süreçleri ve etkileşimli 3B eğitim | Bilgisayarlı görü, veri araçları, kaynak temelli AI ve uygulama geliştirme |
 
-Projelerde yalnızca bir sistemi kullanmayı değil, **nasıl çalıştığını anlamayı** hedefliyorum. Tekrar üretilebilir deneylere, hata ayıklamaya, otomatik testlere ve doğrulanmış sonuçları varsayımlardan ayıran teknik dokümantasyona önem veriyorum.
+**Fırat Üniversitesi Bilgisayar Mühendisliği** öğrencisiyim. Düşük seviyeli sistemler, robotik ve uygulamalı yazılım mühendisliği arasında çalışmalar yürütüyorum.
 
-## Öne Çıkan Mühendislik Projeleri
+Bir projenin ardındaki kanıta önem veriyorum: **tekrar üretilebilir derlemeler, gözlemlenebilir davranışlar, otomatik testler, açık dokümantasyon ve teknik sınırların dürüstçe belirtilmesi**.
 
-| Proje | Geliştirdiğim / çalıştığım konular | İncele |
-| --- | --- | --- |
-| **[ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab)** | **16 ders, 5 birleştirici proje ve Secure/Non-secure sensor node.** Cortex-M33 üzerinde bare-metal C/Assembly, exception handling, MPU, SVC, PendSV context switching ve TrustZone; QEMU/GDB ve CI ile doğrulama. | [v1.0.0 Sürümü](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [CI](https://github.com/Merd0/ARM-Cortex-M-Lab/actions) |
-| **[Robotik Öğrenme Platformu](https://github.com/Merd0/robotik-platform)** | Etkileşimli 3B laboratuvarlar, kinematik, **94 ders** ve depoda belgelenen **1.056 otomatik test** içeren robotik eğitim platformu. | [Canlı Demo](https://robotik-platform.vercel.app/) · [Kaynak Kod](https://github.com/Merd0/robotik-platform) |
-| **[AI Vardiya Analiz Asistanı](https://github.com/Merd0/ai-shift-analysis-assistant)** | Üretim vardiya kayıtlarını hazırlayan, olası kişisel verileri gözden geçiren, filtreleme ve AI destekli operasyon raporlaması yapan Python masaüstü uygulaması. | [Kod ve Görseller](https://github.com/Merd0/ai-shift-analysis-assistant) |
-| **[C Systems Foundation](https://github.com/Merd0/c-systems-foundation)** | Bellek, pointer, veri yapıları, modüler yazılım, derleme ve test konularını içeren **75 adımlı iki dilli C ve sistem programlama yolu**. | [Öğrenme Yolları](https://github.com/Merd0/c-systems-foundation) |
-| **[Car Vision Project](https://github.com/Merd0/car-vision-project)** | PyTorch ResNet50 modeli, FastAPI ve web arayüzünü birleştiren araç tanıma uygulaması. Eğitilmiş model ağırlıkları ayrıca sağlanır. | [Mimari ve Kurulum](https://github.com/Merd0/car-vision-project) |
+## Öne Çıkan Mühendislik Çalışmalarım
 
-**Diğer projeler:** [STM32 Survival Guide](https://github.com/Merd0/STM32-Survival-Guide) · [LeetCode C Solutions](https://github.com/Merd0/leetcode-c-solutions) (açıklamalı C algoritma çözümleri)
+### 01 / [ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab) — Firmware, Hata Ayıklama ve Mimari
+
+**16 uygulamalı ders · 5 birleştirici proje · Secure/Non-secure sensor node**
+
+Bare-metal C/Assembly, exception handling, MPU, SVC, PendSV context switching ve TrustZone konularını ele alan uygulamalı Cortex-M33 laboratuvarı. Deneyler **QEMU, GDB, CMake ve CI** ile derlenip inceleniyor; simülasyon sonuçları fiziksel donanım doğrulaması gibi sunulmuyor.
+
+[Laboratuvarı incele](https://github.com/Merd0/ARM-Cortex-M-Lab) · [v1.0.0 sürümü](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [CI sonuçları](https://github.com/Merd0/ARM-Cortex-M-Lab/actions)
+
+### 02 / [Robotik Öğrenme Platformu](https://github.com/Merd0/robotik-platform) — Etkileşimli Robotik Eğitimi
+
+**94 ders · Etkileşimli 3B laboratuvarlar · Depoda belgelenen 1.056 otomatik test**
+
+Robotik temelleri, kinematik, hareket planlama ve endüstriyel konuları kapsayan açık ve Türkçe eğitim platformu. Tarayıcıda çalıştırılabilen deneyleri yapılandırılmış öğrenme yolları ve hesaplama modüllerinin doğrulanmasıyla birleştiriyor.
+
+[Canlı platformu dene](https://robotik-platform.vercel.app/) · [Kaynak kod ve mimari](https://github.com/Merd0/robotik-platform)
+
+### 03 / [AI Vardiya Analiz Asistanı](https://github.com/Merd0/ai-shift-analysis-assistant) — Endüstriyel Veri ve Uygulamalı AI
+
+Excel tabanlı vardiya kayıtlarını hazırlama, olası kişisel veri alanlarını belirleme, kayıtları filtreleme ve AI destekli operasyon raporları oluşturma için geliştirdiğim **Python masaüstü prototipi**. Üretim ortamına dağıtılmış bir sistem değil, staj/portfolyo çalışmasıdır.
+
+[Kaynak kodu, görselleri ve kurulumu incele](https://github.com/Merd0/ai-shift-analysis-assistant)
+
+<p align="center">
+  <a href="https://robotik-platform.vercel.app/"><img width="49%" src="https://raw.githubusercontent.com/Merd0/robotik-platform/main/docs/assets/readme/01-anasayfa.jpg" alt="Robotik Öğrenme Platformu etkileşimli 3B laboratuvar ana ekranı" /></a>
+  <a href="https://github.com/Merd0/ai-shift-analysis-assistant"><img width="49%" src="https://raw.githubusercontent.com/Merd0/ai-shift-analysis-assistant/main/docs/screenshots/03-ai-analysis.png" alt="AI Vardiya Analiz Asistanı masaüstü analiz ekranı" /></a>
+</p>
+<p align="center"><sub>Gerçek proje ekranları — solda robotik öğrenme platformu, sağda AI destekli vardiya analiz arayüzü.</sub></p>
+
+### Diğer Projeler ve Öğrenme Kaynakları
+
+| Proje | Odak |
+| --- | --- |
+| [C Systems Foundation](https://github.com/Merd0/c-systems-foundation) | Pointer, bellek, modüler programlar, derleme ve testleri içeren **75 adımlı iki dilli C/sistem programlama yolu**. |
+| [STM32 Survival Guide](https://github.com/Merd0/STM32-Survival-Guide) | GPIO, kesmeler, zamanlayıcılar ve durum makineleri için STM32F4/HAL tarzı eğitsel örnekler; donanımda doğrulanmış ürün firmware'i değildir. |
+| [Car Vision Project](https://github.com/Merd0/car-vision-project) | PyTorch ResNet50, FastAPI, web arayüzü ve Docker'ı birleştiren araç tanıma uygulaması. |
+| [LeetCode C Solutions](https://github.com/Merd0/leetcode-c-solutions) | Açıklamalı C çözümleri, iki dilli notlar ve algoritma çalışma yolları. |
+| [C++ Learning Lab](https://github.com/Merd0/cpp-learning-lab) | C++17, OOP, STL, CMake, testler ve iki dilli çalışma notları. |
 
 ## Organizasyon ve Ekip Projeleri
 
-Ekip olarak geliştirdiğimiz bazı mühendislik projeleri **özel GitHub organizasyon depolarında** bulunuyor. Kaynak kodları, iç belgeleri veya veri kümelerini açmadan çalışmaların amacını burada kısaca tanıtıyorum.
+Bazı ortak çalışmalarımız **özel GitHub organizasyon depolarında** geliştiriliyor. Burada kaynak kodu, iç belgeleri veya veri kümelerini paylaşmadan projelerin mühendislik kapsamını özetliyorum.
 
-| Proje / organizasyon | Geliştirdiğimiz ve araştırdığımız konular |
+| Organizasyon / proje | Herkese açık proje özeti |
 | --- | --- |
-| **[Akıllı Fiko](https://github.com/akilli-fiko)** · Akademik Yapay Zekâ Asistanı | Fırat Üniversitesi öğrencilerine yönelik bağımsız, kaynak temelli akademik bilgi asistanı. Türkçe sorgu işleme, bilgi erişimi ve kaynak doğrulama, Node.js/Python servisleri, otomatik testler ve geliştirme iş akışları üzerinde çalışıyoruz. **Resmî üniversite ürünü veya OBS entegrasyonu değildir.** |
-| **[BLOX3D Studio](https://github.com/BLOX3D-Studio)** · 3B Bulmaca Oyunu | Unity tabanlı; etkileşimli oyun mekanikleri, bölüm tasarımı ve yinelemeli oyun geliştirme çalışmalarına odaklanan 3B bulmaca projesi. |
-| **[Servikal Spondiloz Sınıflandırma](https://github.com/MMY-servikal-spondiloz-siniflama)** · Tıbbi Görüntüleme Araştırması | Görüntü tabanlı sınıflandırma üzerine bilgisayarlı görü ve derin öğrenme araştırması. **Klinik tanı aracı değil, yazılım araştırmasıdır.** |
+| **[Akıllı Fiko](https://github.com/akilli-fiko)** · Akademik Yapay Zekâ Asistanı | Fırat Üniversitesi öğrencileri için bağımsız, kaynak temelli akademik bilgi asistanı. Türkçe sorgu işleme, bilgi erişimi/kaynak doğrulama, Node.js/Python servisleri, testler ve geliştirme iş akışları üzerinde çalışıyoruz. **Resmî üniversite ürünü veya OBS entegrasyonu değildir.** |
+| **[BLOX3D Studio](https://github.com/BLOX3D-Studio)** · 3B Bulmaca Oyunu | Unity tabanlı bulmaca oyunu geliştirme, etkileşimli mekanikler ve bölüm tasarımı. |
+| **[Servikal Spondiloz Sınıflandırma](https://github.com/MMY-servikal-spondiloz-siniflama)** · Tıbbi Görüntüleme Araştırması | Görüntü tabanlı sınıflandırma için bilgisayarlı görü ve derin öğrenme araştırması. **Klinik tanı aracı değil, yazılım araştırmasıdır.** |
 
-**Diğer organizasyon çalışmaları:** [AYROS-MMY](https://github.com/AYROS-MMY) · [MMYFU](https://github.com/MMYFU) (proje ayrıntıları henüz burada kamuya açık olarak belgelenmedi).
+**Diğer organizasyonlar:** [AYROS-MMY](https://github.com/AYROS-MMY) · [MMYFU](https://github.com/MMYFU). Bu çalışmaların ayrıntıları henüz burada kamuya açık olarak özetlenmedi.
 
 ## Endüstriyel Deneyim
 
-**ASELSAN — Süreç Tasarım ve Robotik Otomasyon Stajyeri (2026)**  
-Robotik otomasyon ve lazer tabanlı ölçüm çalışmalarında; tool/koordinat sistemleri, hareketle ilgili değerlendirmeler, deneysel doğrulama ve teknik dokümantasyon üzerinde çalıştım.
-
-**Batıçim — Bilgi Sistemleri Stajyeri (2025)**  
-Kurumsal BT ve veri süreçleriyle çalıştım; üretim vardiya kayıtlarının analizine yönelik, veri minimizasyonunu dikkate alan Python tabanlı bir prototip geliştirdim.
+| Kurum | Deneyim |
+| --- | --- |
+| **ASELSAN · 2026**<br/>Süreç Tasarım ve Robotik Otomasyon | Robotik otomasyon ve lazer tabanlı ölçüm çalışmalarında; tool ve koordinat sistemleri, hareket değerlendirmeleri, deneysel doğrulama ve teknik dokümantasyon üzerinde çalıştım. |
+| **Batıçim · 2025**<br/>Bilgi Sistemleri | Kurumsal BT ve veri süreçleriyle çalıştım; veri minimizasyonunu dikkate alarak üretim vardiya kayıtlarının analizi için Python prototipi geliştirdim. |
 
 ## Teknik Yetkinlikler
 
@@ -77,23 +104,23 @@ Kurumsal BT ve veri süreçleriyle çalıştım; üretim vardiya kayıtlarının
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-| Çalışma alanı | Teknolojiler ve konular |
+| Çalışma alanı | Araçlar ve kavramlar |
 | --- | --- |
-| **Gömülü ve düşük seviyeli sistemler** | C/C++, Arm Cortex-M/Armv8-M, Thumb Assembly, MPU, kesmeler, QEMU, GDB, STM32 temelleri |
-| **Robotik ve otomasyon** | Robot koordinat sistemleri, kinematik, endüstriyel otomasyon, ölçüm süreçleri |
-| **Yazılım ve uygulamalı AI** | Python, PyTorch, FastAPI, TypeScript, Next.js, C#, SQL, bilgisayarlı görü, veri işleme |
-| **Mühendislik geliştirme süreci** | Git, CMake, Ninja, Make, Docker, CI, hata ayıklama, otomatik testler, teknik dokümantasyon |
+| **Gömülü / sistemler** | C/C++, Arm Cortex-M / Armv8-M, Thumb Assembly, MPU, kesmeler, QEMU, GDB, STM32 temelleri |
+| **Robotik / otomasyon** | Robot koordinat sistemleri, kinematik, endüstriyel süreçler, ölçüm ve doğrulama |
+| **Yazılım / AI** | Python, PyTorch, FastAPI, TypeScript, Next.js, C#, SQL, bilgisayarlı görü ve veri işleme |
+| **Mühendislik pratiği** | Git, CMake, Ninja, Make, Docker, CI, hata ayıklama, otomatik testler ve teknik dokümantasyon |
 
 ## Çalışma Yaklaşımım
 
-> **Mekanizmayı anla → Tekrar üretilebilir deney kur → Beklenen ve hatalı davranışı test et → Kanıtları ve sınırları belgele.**
+> **Mekanizmayı anla → Tekrar üretilebilir deney kur → Beklenen ve hatalı durumları test et → Kanıtları ve sınırları belgele.**
 
-[ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab) bu yaklaşımın bir örneği: işlemci davranışlarını QEMU/GDB ve CI ile incelerken simülasyon sonuçlarını gerçek donanım doğrulamasından ve zamanlama garantilerinden açıkça ayırıyor.
+[ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab) bu yaklaşımın bir örneği: işlemci davranışları QEMU/GDB üzerinden gözlemleniyor ve CI ile kontrol ediliyor; simülasyon sonuçları gerçek donanım veya gerçek zamanlı çalışma garantileriyle karıştırılmıyor.
 
 ## GitHub Aktivitesi
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub etkinlik özeti" />
+  <img width="100%" src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub katkı etkinliği özeti" />
 </p>
 
 <details>
@@ -108,6 +135,6 @@ Kurumsal BT ve veri süreçleriyle çalıştım; üretim vardiya kayıtlarının
 
 ## İletişim
 
-Gömülü yazılım, robotik veya mühendislik projeleri için [LinkedIn üzerinden iletişime geçebilirsin](https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/).
+**Gömülü yazılım, robotik veya mühendislik projeleri** için [LinkedIn üzerinden iletişime geçebilirsin](https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/).
 
 <sub>Read this profile in [English](README.md).</sub>
