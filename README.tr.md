@@ -8,17 +8,7 @@ Gömülü Sistemler · Robotik ve Endüstriyel Otomasyon · Bilgisayarlı Görü
 
 *ARM Cortex-M firmware çalışmalarından etkileşimli robotik uygulamalarına, mühendislik kavramlarını çalışan ve test edilebilir yazılımlara dönüştürüyorum.*
 
-<p>
-  <a href="https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flant%C4%B1%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn üzerinden iletişim" />
-  </a>
-  <a href="https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/ARM%20Cortex--M%20Lab-v1.0.0-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="ARM Cortex-M Lab v1.0.0" />
-  </a>
-  <a href="https://robotik-platform.vercel.app/">
-    <img src="https://img.shields.io/badge/Canl%C4%B1%20Proje-Robotik%20Platform-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı Robotik Öğrenme Platformu" />
-  </a>
-</p>
+[LinkedIn](https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/) · [Canlı robotik platformu](https://robotik-platform.vercel.app/)
 
 [English](README.md) · **Türkçe**
 
@@ -43,8 +33,10 @@ Farklı mühendislik problemlerine odaklanan üç bağımsız projem. Bağlantı
 
 Cortex-M33 işlemcisinin davranışını bare-metal C/Assembly, exception handling, MPU, SVC/PendSV bağlam değiştirme ve TrustZone üzerinden anlamaya yönelik uygulamalı laboratuvar. **QEMU/GDB deneyleri ve CI kontrolleri** tekrarlanabilir; simülasyon sonuçları fiziksel donanım doğrulaması olarak sunulmuyor.
 
+Finalde üç Non-secure görev, MPU ile ayrılmış stack’ler ve TrustZone üzerinden Secure kalibrasyon kullanarak sentetik sensör verisini işler.
+
 **16 ders** · **5 birleştirici proje** · **v1.0.0**  
-[Kaynak kod](https://github.com/Merd0/ARM-Cortex-M-Lab) · [Sürüm](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [Otomatik kontroller](https://github.com/Merd0/ARM-Cortex-M-Lab/actions)
+[Kaynak kod](https://github.com/Merd0/ARM-Cortex-M-Lab) · [Sürüm](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [v1.0.0 CI sonucu](https://github.com/Merd0/ARM-Cortex-M-Lab/actions/runs/40545977241) · [Secure Real-Time Sensor Node](https://github.com/Merd0/ARM-Cortex-M-Lab/tree/main/final-project/secure-real-time-sensor-node)
 
 ### 02 / [Robotik Öğrenme Platformu](https://github.com/Merd0/robotik-platform)
 **Robotik · Etkileşimli 3B · Mühendislik Eğitimi**
@@ -113,17 +105,6 @@ Kurumsal BT ve veri süreçleriyle çalıştım; üretim vardiya kayıtlarının
 
 ## Teknik Yetkinlikler
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
 | Çalışma alanı | Teknolojiler ve konular |
 | --- | --- |
 | **Gömülü ve düşük seviyeli sistemler** | C/C++, Arm Cortex-M/Armv8-M, Thumb Assembly, MPU, kesmeler, QEMU, GDB, STM32 temelleri |
@@ -137,21 +118,6 @@ Kurumsal BT ve veri süreçleriyle çalıştım; üretim vardiya kayıtlarının
 
 [ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab) bu yaklaşımın bir örneği: işlemci davranışlarını QEMU/GDB ve CI ile incelerken simülasyon sonuçlarını gerçek donanım doğrulamasından ve zamanlama garantilerinden açıkça ayırıyor.
 
-## GitHub Aktivitesi
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub etkinlik özeti" />
-</p>
-
-<details>
-<summary><strong>Diğer GitHub istatistikleri</strong></summary>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub istatistikleri" />
-  <img width="49%" src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Depolara göre kullanılan diller" />
-</p>
-
-</details>
 
 ## İletişim
 
