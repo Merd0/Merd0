@@ -8,17 +8,7 @@ Embedded Systems · Robotics & Industrial Automation · Computer Vision · Syste
 
 *Turning engineering concepts into working, testable software — from Cortex-M firmware to interactive robotics.*
 
-<p>
-  <a href="https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/ARM%20Cortex--M%20Lab-v1.0.0-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="ARM Cortex-M Lab v1.0.0" />
-  </a>
-  <a href="https://robotik-platform.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Project-Robotics%20Platform-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Open the live Robotics Learning Platform" />
-  </a>
-</p>
+[LinkedIn](https://linkedin.com/in/mert-ayd%C4%B1n-0578a420b/) · [Live robotics platform](https://robotik-platform.vercel.app/)
 
 **English** · [Türkçe](README.tr.md)
 
@@ -43,8 +33,10 @@ Three independent projects, each solving a different engineering problem. The li
 
 A hands-on Cortex-M33 lab for understanding processor behavior through bare-metal C/Assembly, exceptions, MPU, SVC/PendSV context switching, and TrustZone. Built around repeatable **QEMU/GDB experiments and CI checks**, without equating simulation with physical-hardware validation.
 
+The capstone processes synthetic sensor data with three Non-secure tasks, MPU-isolated stacks, and a TrustZone calibration service.
+
 **16 lessons** · **5 integration projects** · **v1.0.0**  
-[Repository](https://github.com/Merd0/ARM-Cortex-M-Lab) · [Release](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [Automated checks](https://github.com/Merd0/ARM-Cortex-M-Lab/actions)
+[Repository](https://github.com/Merd0/ARM-Cortex-M-Lab) · [Release](https://github.com/Merd0/ARM-Cortex-M-Lab/releases/tag/v1.0.0) · [v1.0.0 CI run](https://github.com/Merd0/ARM-Cortex-M-Lab/actions/runs/40545977241) · [Secure Real-Time Sensor Node](https://github.com/Merd0/ARM-Cortex-M-Lab/tree/main/final-project/secure-real-time-sensor-node)
 
 ### 02 / [Robotics Learning Platform](https://github.com/Merd0/robotik-platform)
 **Robotics · Interactive 3D · Engineering Education**
@@ -113,17 +105,6 @@ Worked with enterprise IT and data workflows; developed a Python prototype for a
 
 ## Technical Toolbox
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
 | Focus area | Technologies & concepts |
 | --- | --- |
 | **Embedded & low-level** | C/C++, Arm Cortex-M/Armv8-M, Thumb Assembly, MPU, interrupts, QEMU, GDB, STM32 fundamentals |
@@ -137,21 +118,6 @@ Worked with enterprise IT and data workflows; developed a Python prototype for a
 
 The [ARM Cortex-M Lab](https://github.com/Merd0/ARM-Cortex-M-Lab) reflects this approach: it investigates processor behavior through QEMU/GDB and CI while explicitly distinguishing simulation results from physical-hardware validation or real-time guarantees.
 
-## GitHub Activity
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub activity overview" />
-</p>
-
-<details>
-<summary><strong>More GitHub statistics</strong></summary>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub statistics" />
-  <img width="49%" src="https://raw.githubusercontent.com/Merd0/Merd0/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repositories by language" />
-</p>
-
-</details>
 
 ## Let's Connect
 
